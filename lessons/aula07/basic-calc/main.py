@@ -1,5 +1,5 @@
 # @file: main.py
-# @includes: module.py
+# @includes: src/soma.py src/sub.py src/mult.py src/div.py
 # @author: Osvaldo Alves
 # @date: 07/02/2023
 # @description: Exercise of calculator with methods, functions and imports.
